@@ -1,0 +1,6 @@
+material models/wolfmp/mapobjects/lights/lightswitch_01
+{
+	diffusemap		models/wolfmp/mapobjects/lights/lightswitch_01_d.tga
+	specularmap		models/wolfmp/mapobjects/lights/lightswitch_01_s.tga
+	bumpmap			models/wolfmp/mapobjects/lights/lightswitch_01_local.tga
+}
