@@ -1,0 +1,14 @@
+/***********************************************************************
+
+mp40.script
+
+***********************************************************************/
+
+object weapon_mp40 : weapon_clip {
+	void		preinit();
+};
+
+void weapon_mp40::preinit() {
+	hasScope		= false;
+	hasIronSights	= false;
+}

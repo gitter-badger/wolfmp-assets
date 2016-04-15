@@ -1,0 +1,10 @@
+
+#include <materials/guis/weapon_icons.include>
+
+/*
+==================
+ Weapon icons for the limbo menu and weapon switching menu
+==================
+*/
+
+material guis/wolfmp/assets/icons/weapons/mp40 			{ _weapon_icon(  "guis/wolfmp/assets/icons/weapons/mp40" ) }

@@ -1,0 +1,317 @@
+// ========================================================================
+// VIEW Models
+//
+
+model viewmodel_mp40
+{
+	mesh							models/weapons/gdf_assault_rifle/assault_rework.md5mesh
+
+	anim idle						models/weapons/gdf_assault_rifle/assault_rework_idle.md5anim
+	
+	anim raise						models/weapons/gdf_assault_rifle/assault_rework_riase.md5anim
+	{
+		frame begin						sound_channel snd_weapon_raise snd_raise
+	}
+
+	anim putaway					models/weapons/gdf_assault_rifle/assault_rework_lower.md5anim
+	{
+	}
+
+	anim fire						models/weapons/gdf_assault_rifle/assault_rework_fire.md5anim
+	{
+	}
+
+	anim fire2						models/weapons/gdf_assault_rifle/assault_rework_fire2.md5anim
+	{
+	}
+
+	anim fire3						models/weapons/gdf_assault_rifle/assault_rework_fire3.md5anim
+	{
+	}
+
+	anim reload						models/weapons/gdf_assault_rifle/assault_rework_reload.md5anim
+	{
+		frame 5							sound_channel snd_weapon_reload snd_reload
+		frame 49						sound_channel snd_weapon_cock snd_cock
+	}
+	
+	anim zoomin						models/weapons/gdf_assault_rifle/assault_rework_zoom_in.md5anim
+	{
+		frame 1						sound_channel snd_weapon_foley snd_sights_up
+	}
+	
+	anim zoomout					models/weapons/gdf_assault_rifle/assault_rework_zoom_out.md5anim
+	{
+		frame 1						sound_channel snd_weapon_foley snd_sights_down
+	}
+	
+	anim start_sprint				models/weapons/gdf_assault_rifle/assault_rework_start_sprint.md5anim
+	anim leave_sprint				models/weapons/gdf_assault_rifle/assault_rework_leave_sprint.md5anim
+	anim fire_zoom					models/weapons/gdf_assault_rifle/assault_rework_zoom_fire.md5anim
+	anim idle_zoom					models/weapons/gdf_assault_rifle/assault_rework_zoom_idle.md5anim
+}
+
+
+// ========================================================================
+// WORLD Models
+//
+
+model worldmodel_mp40
+{
+	mesh		 						models/weapons/gdf_assault_rifle/assault_world.md5mesh
+
+	anim raise							models/weapons/gdf_assault_rifle/assault_world.md5anim
+	{
+	}
+	
+	anim idle 							models/weapons/gdf_assault_rifle/assault_world.md5anim 
+	{
+	}
+	
+	anim aim							models/weapons/gdf_assault_rifle/assault_world.md5anim 
+	{
+	}
+	
+	anim fire1 							models/weapons/gdf_assault_rifle/assault_world.md5anim 
+	{
+	}
+	
+	anim reload							models/weapons/gdf_assault_rifle/assault_world.md5anim
+	{
+	}
+	
+	anim noammo							models/weapons/gdf_assault_rifle/assault_world.md5anim
+	{
+	}
+	
+ 	anim putaway						models/weapons/gdf_assault_rifle/assault_world.md5anim 
+	{
+	}
+}
+
+
+// ========================================================================
+// Weapon definition
+//
+
+invItemDef inventory/weapons/mp40
+{
+	type								"weapon"
+	slot								"twohanded"
+	name								"wolfmp/weapons/mp40"
+	model								"models/weapons/gdf_assault_rifle/assault_player.lwo"
+	joint								"Spine2"
+
+	data
+	{
+		"model_view" 					"viewmodel_assaultrifle_rework"
+		"model_world" 					"worldmodel_assaultrifle"
+
+		"anim_limbomenu"				"menu_assault"
+
+		"view_offset"					"-2 0.5 0.79"
+		"view_foreshorten"				"0.8"
+
+		"joint_attach"					"weapon"
+		"anim_prefix"					"machinegun"
+		"anim_prefix_class"				"twohanded"
+
+		"weapon_scriptobject"			"weapon_mp40"
+
+		"muzzle_kick_time"				"0.1"
+		"muzzle_kick_maxtime"			"0.1"
+		"muzzle_kick_angles"			"-1 0 0"
+		"muzzle_kick_offset"			"0.15 0 0.1"
+
+		"recoilTime"					"120"
+		"recoilAngles"					"-0.25 0 0"
+		"kickback"						"0.25"
+		"kickback_prone"				"0.13"
+
+		"stat_name"						"mp40"
+
+		"fx_muzzle_flash"				"effects/weapons/assaultrifle_muzzleflash_view"
+		"fx_muzzle_flash_world"			"effects/weapons/assaultrifle_muzzleflash_world"
+
+		"fx_tracer"						"effects/base/tracers_small"
+		"effectchance fx_tracer"		"0.1"
+
+		"snd_fire"						"sounds/wolfmp/weapons/mp40/fire"
+		"snd_fire_far"					"sounds/wolfmp/weapons/mp40/fire_far"
+		"snd_fire_local"				"sounds/wolfmp/weapons/mp40/fire_local"
+		"snd_safe"						"sounds/weapons/assaultrifle/safe"
+		"snd_cock"						"sounds/weapons/assaultrifle/cock"
+		"snd_reload"					"sounds/weapons/assaultrifle/reload"
+		"snd_mech"						"sounds/weapons/assaultrifle/mech"
+		"snd_modeswitch"				"sounds/weapons/misc/mode_switch"
+		"snd_lowammo"					"sounds/weapons/misc/ammo_warning"
+		"snd_raise"						"sounds/weapons/assaultrifle/raise"
+		"snd_sights_up"					"sounds/weapons/assaultrifle/sights/up"
+		"snd_sights_down"				"sounds/weapons/assaultrifle/sights/down"
+		"snd_dryfire"					"sounds/weapons/misc/dryfire"
+
+		"fov_zoom"						"60"
+		"fov_time"						"0.25"
+		"fov_speed"						"0.5"
+		"fov_spread"					"0.5"
+
+		"fire_rate"						"0.15"
+		"num_projectiles"				"1"
+
+		"low_ammo"						"8"
+
+		"gui_sight"						"game/sights/assaultrifle_scope"
+		"mtr_weaponmenu"				"guis/wolfmp/assets/icons/weapons/mp40"
+
+		"climate_skin_key"				"weapon_gdf" // real skin name is skin_weapon_gdf (always add "skin_" at beginning to find skin in .skin files)
+
+		"crosshair"						"large"
+
+		"crosshair_spread_min"			"-0.5"
+		"crosshair_spread_max"			"2"
+		"crosshair_spread_scale"		"1"
+
+		"spread_min"					"0.5"
+		"spread_max"					"1.5"
+		"spread_inc"					"0.25"
+		
+		"spread_crouch_min"				"0.75"
+		"spread_crouch_max"				"2.8"
+		"spread_crouch_inc"				"1"
+		
+		"spread_prone_min"				"0.25"
+		"spread_prone_max"				"0.75"
+		"spread_prone_inc"				"0.25"	
+		
+		"spread_jump_min"				"2"
+		"spread_jump_max"				"2"
+		"spread_jump_inc"				"2"
+		
+		"spread_viewrate_min"			"1"
+		"spread_viewrate_max"			"3.5"
+		"spread_viewrate_inc"			"2.5"
+		"spread_max_settle_time"		"600"
+		
+		
+		
+		"spread_crouch_viewrate_min"	"0.75"
+		"spread_crouch_viewrate_max"	"2.8"
+		"spread_crouch_viewrate_inc"	"2.5"
+		"spread_crouch_max_settle_time"	"550"
+		
+		"spread_prone_viewrate_min"		"0.5"
+		"spread_prone_viewrate_max"		"2"
+		"spread_prone_viewrate_inc"		"2.5"	
+		"spread_prone_max_settle_time"	"500"
+		
+		"spread_jump_max_settle_time"	"600"
+
+		"tt_intro_1"					"assaultrifle_intro_1"
+		"tt_intro_2"					"generic_weapon_fire"
+		"tt_intro_ironsights_1"			"assaultrifle_ironsights"
+		"tt_intro_ironsights_2"			"generic_weapon_ironsights"
+		"tt_intro_reload"				"generic_weapon_reload"
+
+		"autoswitch_priority"			"5"
+
+		"player_weapon_num"				"2"
+	}
+
+	clip
+	{
+		"projectile"					"projectile_mp40"
+		"client_projectile"				"projectile_bullet"
+		"type"							"mp40"
+		"ammo_per_shot"					"1"
+		"max_ammo"						"32"
+	}
+}
+
+invItemDef inventory/weapons/mp40_dummy
+{
+	type								"weapon"
+	slot								"twohanded"
+	name								"wolfmp/weapons/mp40"
+	model								"models/weapons/gdf_assault_rifle/assault_player.lwo"
+	joint								"Spine2"
+
+	data
+	{
+		"inherit"						"inventory/weapons/mp40"
+		"weapon_scriptobject"			"weapon_dummy"
+	}
+}
+
+// ========================================================================
+// Tooltip definitions
+//
+/* 
+toolTip assaultrifle_intro_1
+{
+	sound "sounds/ui/main/neutral"
+	text "game/tt/intro/assaultrifle_1"
+}
+
+toolTip assaultrifle_ironsights
+{
+	sound "sounds/ui/main/neutral"
+	text "game/tt/intro/generic/ironsights_1"
+}
+*/
+
+entityDef projectile_mp40
+{
+	"spawnclass"						"idProjectile"
+	"inherit"							"projectile_bullet_base"
+
+	"range"								"8192"
+
+	"min_damage_percent"				"10"
+
+	"dmg_damage"						"damage_mp40"
+}
+
+damageDef damage_mp40
+{
+	damage								"damage_mp40"
+
+	prof_damage							"pro_light_weapons_damage"
+
+	knockback							1
+	push								5000
+
+	record_hit_stats
+
+	stat_name							"mp40"
+
+	tt_obituary							"tooltips/killmsgs/weapons/assaultrifle"
+	tt_obituary_team_kill				"tooltips/killmsgs/weapons/assaultrifle/teamkill"
+}
+
+damageFilter damage_mp40
+{
+	type
+	{
+		target							"target_player_all"
+		damage							13
+	}
+
+	type
+	{
+		target							"target_veh_light_all"
+		damage							15
+	}
+
+	type
+	{
+		target							"target_veh_heavy_all"
+		damage							8
+	}
+
+	type
+	{
+		target							"target_deployables_all"
+		damage							15
+	}
+}
+

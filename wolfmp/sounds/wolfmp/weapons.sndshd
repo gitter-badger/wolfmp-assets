@@ -1,0 +1,34 @@
+/////////////////////////////////////////////
+// MP40
+/////////////////////////////////////////////
+
+sound sounds/wolfmp/weapons/mp40/fire_local {
+	compression wav
+
+	private
+	no_dups
+	occlude_once
+
+	sounds/wolfmp/weapons/mp40/fire_local.wav
+}
+
+sound sounds/wolfmp/weapons/mp40/fire {
+	compression wav
+
+	volume -3
+	maxDistance 75
+	antiPrivate
+	occlude_once
+
+	sounds/wolfmp/weapons/mp40/fire.wav
+}
+
+sound sounds/wolfmp/weapons/mp40/fire_far {
+	compression wav
+
+	volume -10
+	maxDistance 150
+	occlude_once
+
+	sounds/wolfmp/weapons/mp40/fire_far.wav
+}

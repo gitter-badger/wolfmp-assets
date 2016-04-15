@@ -1,0 +1,3 @@
+locString wolfmp/weapons/mp40 {
+	text "#str_wolfmp_mp40" 
+}
