@@ -7,7 +7,6 @@ This repository is about the mod's assets. For the source code repo, please visi
 
 Mod forum page can be found here : http://forums.warchest.com/showthread.php/31962-Wolf-MP.  
 ModDB page : http://www.moddb.com/mods/wolfmp  
-Chatroom : wolfmp.slack.com (need invite)  
-Slack chatroom : https://wolfmp.slack.com  
+Slack chatroom : https://wolfmp.slack.com(need invite)  
   
 You can contact me by PM here, email or on SplashDamage forums to get an invite for the Slack chatroom. I do not own the ModDB page.
