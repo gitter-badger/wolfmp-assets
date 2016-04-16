@@ -1,0 +1,7 @@
+#################
+## ETQW
+#################
+/wolfmp/tools/
+/wolfmp/*.cfg
+/wolfmp/*.log
+/wolfmp/*.txt
