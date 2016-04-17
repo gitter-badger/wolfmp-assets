@@ -1,7 +1,20 @@
 #################
 ## ETQW
 #################
+
+# Root files
 /wolfmp/tools/
 /wolfmp/*.cfg
 /wolfmp/*.log
 /wolfmp/*.txt
+
+# Map files
+*.autosave
+*.procb
+*.cm
+*.cmb
+*.bot_entities
+*.entities
+
+# Megatexture garbage
+/wolfmp/maps/*.tga
