@@ -1,0 +1,703 @@
+sdWorldFile version 5 {
+
+	primitiveHolders {
+		sdPrimitiveEntity "worldspawn" {
+			classname "worldspawn"
+		}
+		sdPrimitiveEntity "<maps/references/battery/main_bunker>/speaker" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/pipes/steam/steampipe_02"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-8.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"15.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -694 -3420 876 )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "<maps/references/battery/main_bunker>/speaker_2" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/pipes/steam/steampipe_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-10.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"20.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -330 -2904 876 )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "<maps/references/battery/main_bunker>/speaker_3" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/pipes/steam/steampipe_02"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-8.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"15.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -694 -3420 876 )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "<maps/references/battery/main_bunker>/speaker_4" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/pipes/steam/steampipe_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-13.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"20.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_justVolume"	"1"
+				"s_singleArea"	"0"
+			}
+			sdTransform {
+				translation ( -330 -2904 876 )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_8" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/water/waves_onshore_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"0.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"50.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( 1784.1500244141 1801.0100097656 95.75 )
+				rotation ( ( -0.9428930283 -0.3330957294 -0 ) ( 0.3330957294 -0.9428930283 0 ) ( -0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_9" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/water/waves_onshore_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"0.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"50.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( 6272.6899414063 2504.5400390625 166.1499938965 )
+				rotation ( ( -0.9974979162 0.0706958994 -0 ) ( -0.0706958994 -0.9974979162 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_10" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/rooms/airy/airmach_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-10.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"16.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -800.3499755859 -3807.7099609375 1157.2299804688 )
+				rotation ( ( 0.9992866516 -0.0377654061 -0 ) ( 0.0377654061 0.9992866516 0 ) ( 0 -0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_11" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/rooms/airy/airmach_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-10.000000"
+				"s_justVolume"	"1"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"10.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+			}
+			sdTransform {
+				translation ( -331.1199951172 -4120.1201171875 1250.7399902344 )
+				rotation ( ( 0.0376695208 0.9992902279 -0 ) ( -0.9992902279 0.0376695208 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_12" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/water/waves_onshore_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"0.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"50.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -148.8500061035 813.7800292969 157.4199981689 )
+				rotation ( ( 0.4004149735 -0.9163339138 -0 ) ( 0.9163339138 0.4004149735 0 ) ( 0 -0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_13" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/water/waves_onshore_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"0.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"50.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -1964.0400390625 1458.9499511719 214.6600036621 )
+				rotation ( ( 0.9487130046 -0.3161385655 -0 ) ( 0.3161385655 0.9487130046 0 ) ( 0 -0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_14" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/water/waves_onshore_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"0.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"50.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -3881.6398925781 2414.1298828125 247.3099975586 )
+				rotation ( ( 0.933749795 -0.3579264283 -0 ) ( 0.3579264283 0.933749795 0 ) ( 0 -0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_15" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/water/waves_onshore_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"0.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"50.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -5969.91015625 2877.4399414063 238.75 )
+				rotation ( ( 0.9984436631 0.0557695925 -0 ) ( -0.0557695925 0.9984436631 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_16" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/tonal/st_whistly_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-5.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"40.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -1513.4399414063 -1357.3499755859 1369.8499755859 )
+				rotation ( ( 0.0403519534 0.9991855025 -0 ) ( -0.9991855025 0.0403519534 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_17" {
+			sdDictionary {
+				"s_shader"	"sounds/maps/island/generator_loop"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-15.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"30.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -2759 -2752.580078125 989.6799926758 )
+				rotation ( ( -0.909845531 -0.4149470925 -0 ) ( 0.4149470925 -0.909845531 0 ) ( -0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_18" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/mid/st_mid_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-3.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"30.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( -1349.5500488281 -2921.830078125 1838.5300292969 )
+				rotation ( ( -0.9883307219 0.1523234397 -0 ) ( -0.1523234397 -0.9883307219 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_19" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/mid/st_mid_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"0.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"25.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( 90.0999984741 -3879.0500488281 1684.2900390625 )
+				rotation ( ( -0.8780963421 0.4784838557 -0 ) ( -0.4784838557 -0.8780963421 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_20" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/mid/st_mid_02"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"0.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"30.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( 1119.1400146484 -5204.919921875 1636.1800537109 )
+				rotation ( ( -0.3568519652 -0.9341609478 -0 ) ( 0.9341609478 -0.3568519652 0 ) ( -0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_21" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/mid/st_mid_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-3.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"10.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( 2973.2099609375 -5201.6899414063 1739.4300537109 )
+				rotation ( ( 0.4824356437 -0.8759313822 -0 ) ( 0.8759313822 0.4824356437 0 ) ( 0 -0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_22" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/lo_wind_03"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-8.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"20.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( 2019.3900146484 -5675.1298828125 1074.4000244141 )
+				rotation ( ( -0.180682838 -0.983541429 -0 ) ( 0.983541429 -0.180682838 0 ) ( -0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_23" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/desert/loop_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-3.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"15.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( 1923.9499511719 -4518.2299804688 1310.8000488281 )
+				rotation ( ( -0.0233910643 0.9997264147 -0 ) ( -0.9997264147 -0.0233910643 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_24" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/desert/loop_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-3.000000"
+				"s_justVolume"	"1"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"15.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+			}
+			sdTransform {
+				translation ( 2846.1298828125 -3506.7800292969 1276.6400146484 )
+				rotation ( ( -0.4909785688 -0.8711716533 -0 ) ( 0.8711716533 -0.4909785688 0 ) ( -0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_25" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/desert/loop_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-3.000000"
+				"s_justVolume"	"1"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"20.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+			}
+			sdTransform {
+				translation ( 2074.6599121094 -2298.9399414063 1335.8199462891 )
+				rotation ( ( 0.9909927249 -0.1339156032 -0 ) ( 0.1339156032 0.9909927249 0 ) ( 0 -0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_26" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/desert/loop_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-5.000000"
+				"s_justVolume"	"1"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"20.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+			}
+			sdTransform {
+				translation ( 1312.3699951172 -1334.9499511719 1432.9000244141 )
+				rotation ( ( 0.157154128 -0.9875741005 -0 ) ( 0.9875741005 0.157154128 0 ) ( 0 -0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_27" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/outdoors/wind/desert/loop_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-3.000000"
+				"s_justVolume"	"1"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"20.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+			}
+			sdTransform {
+				translation ( 2171.2099609375 331.5299987793 984.7700195313 )
+				rotation ( ( 0.6317214966 0.7751954198 -0 ) ( -0.7751954198 0.6317214966 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_28" {
+			sdDictionary {
+				"s_shader"	"sounds/ambience/rooms/airy/dull_01"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-9.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"20.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( 170.9900054932 -2012.5899658203 1144.9000244141 )
+				rotation ( ( 0.9933671951 -0.1149854958 -0 ) ( 0.1149854958 0.9933671951 0 ) ( 0 -0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+		sdPrimitiveEntity "speaker_29" {
+			sdDictionary {
+				"s_shader"	"sounds/object_ambience/compressors/comp_04"
+				"s_looping"	"1"
+				"s_shakes"	"0.000000"
+				"s_volume"	"-5.000000"
+				"s_mindistance"	"1.000000"
+				"s_maxdistance"	"20.000000"
+				"s_omni"	"0"
+				"s_occlusion"	"1"
+				"s_waitfortrigger"	"0"
+				"soundgroup"	""
+				"s_leadthrough"	"0.100000"
+				"s_plain"	"0"
+				"wait"	"0.000000"
+				"random"	"0.000000"
+				"s_unclamped"	"0"
+				"s_singleArea"	"0"
+				"s_justVolume"	"1"
+			}
+			sdTransform {
+				translation ( 441.8599853516 -3954.1398925781 635.5399780273 )
+				rotation ( ( -0.008053259 0.9999675751 -0 ) ( -0.9999675751 -0.008053259 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "speaker"
+		}
+	}
+}

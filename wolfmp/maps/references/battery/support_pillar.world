@@ -1,0 +1,176 @@
+sdWorldFile version 5 {
+
+	meta {
+		sdDetailGroup "d1" {
+			propertyTable {
+				"color"		( 1 1 1 )
+			}
+		}
+	}
+	primitiveHolders {
+		sdPrimitiveEntity "worldspawn" {
+			classname "worldspawn"
+			primitives {
+				sdPrimitivePatch "sdPrimitivePatch" 
+				groups {
+					"d1"
+				}
+				{
+					sdDictionary {
+						"_color"	"0.86275 0.86275 0.86275 1"
+						"_overbright"	"1.00000"
+					}
+					
+					sdTransform {
+						translation ( 987.9999389648 20.0000572205 320 )
+						rotation ( ( 0.9999995232 0.0000004768 0 ) ( -0.0000004768 0.9999995232 0 ) ( 0 0 1 ) )
+					}
+					
+					allowThicken 1
+					allowCap 0
+					thickenAllEdges 1
+					useExplicitSubdivisions 1
+					texMatrix ( ( 1 0 0 ) ( 0 1 0.5 ) )
+					texBounds ( ( 0 384 ) ( 32 640 ) )
+					material "textures/battery/bunker/cement_slabs01a_vert_colour"
+					explicitSubdivisions( 1 1 )
+					controlPoints( 3 3 ) {
+						(
+							( ( -979.9995727539 4.0004072189 -32 0 1.5 ) ( -983.9995727539 4.0004086494 -32 0.03125 1.5 ) ( -987.9995727539 -3.9995861053 -32 0.0625 1.5 ) )
+							( ( -979.9995727539 4.0004072189 0 0 1 ) ( -983.9995727539 4.0004086494 0 0.03125 1 ) ( -987.9995727539 -3.9995861053 0 0.0625 1 ) )
+							( ( -979.9995727539 -11.9995861053 32 0 0.5 ) ( -983.9995727539 -11.999584198 32 0.03125 0.5 ) ( -987.9995727539 -19.9995803833 32 0.0625 0.5 ) )
+						)
+					}
+				}
+				sdPrimitivePatch "sdPrimitivePatch" 
+				groups {
+					"d1"
+				}
+				{
+					sdDictionary {
+						"_color"	"0.86275 0.86275 0.86275 1"
+						"_overbright"	"1.00000"
+					}
+					
+					sdTransform {
+						translation ( 923.9999389648 20.0000534058 320 )
+						rotation ( ( 0.9999995232 0.0000004768 0 ) ( -0.0000004768 0.9999995232 0 ) ( 0 0 1 ) )
+					}
+					
+					allowThicken 1
+					allowCap 0
+					thickenAllEdges 1
+					useExplicitSubdivisions 1
+					texMatrix ( ( 1 0 0 ) ( 0 -1 0.5 ) )
+					texBounds ( ( 0 384 ) ( 32 640 ) )
+					material "textures/battery/bunker/cement_slabs01a_vert_colour"
+					explicitSubdivisions( 1 1 )
+					controlPoints( 3 3 ) {
+						(
+							( ( -867.9996337891 -11.9996328354 32 0 0.5 ) ( -863.9996337891 -11.9996347427 32 0.03125 0.5 ) ( -859.9996337891 -19.9996337891 32 0.0625 0.5 ) )
+							( ( -867.9996337891 4.0003604889 0 0 1 ) ( -863.9996337891 4.0003585815 0 0.03125 1 ) ( -859.9996337891 -3.9996395111 0 0.0625 1 ) )
+							( ( -867.9996337891 4.0003604889 -32 0 1.5 ) ( -863.9996337891 4.0003585815 -32 0.03125 1.5 ) ( -859.9996337891 -3.9996395111 -32 0.0625 1.5 ) )
+						)
+					}
+				}
+				sdPrimitiveBrush "sdPrimitiveBrush" 
+				groups {
+					"d1"
+				}
+				{
+					sdDictionary {
+						"_color"	"0.86275 0.86275 0.86275 1"
+						"_overbright"	"1.00000"
+					}
+					
+					sdTransform {
+						translation ( 959.9999389648 -63.9999389648 352 )
+						rotation ( ( 0.9999995232 0.0000004768 0 ) ( -0.0000004768 0.9999995232 0 ) ( 0 0 1 ) )
+					}
+					
+					faces {
+						plane ( -0 -0 1 0 ) matrix ( ( 0.0312500112 0 18.0000076294 ) ( 0 -0.0312500112 -5.9999914169 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( 0 -0 -1 -64 ) matrix ( ( 0.0312500261 0 18.0000038147 ) ( 0 -0.0312500037 5.9999961853 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( 1 -0 -0 903.9995727539 ) matrix ( ( -0.0312500298 0 -18.0000114441 ) ( 0 0.03125 -2 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( -1 -0 -0 -951.9995727539 ) matrix ( ( -0.0312500298 0 18.0000114441 ) ( 0 0.03125 -2 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( 0.000001542 0.9701424837 0.2425356209 -69.8491363525 ) matrix ( ( -0.0091145905 0 -0.0729176998 ) ( 0 0.0151584651 5.647064209 ) ) texBounds ( ( 0 128 ) ( 224 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( -0.0000016962 -0.9701426625 -0.2425350845 62.0879096985 ) matrix ( ( -0.0312500298 0 -6.0000152588 ) ( 0 0.0312499851 2.4253792763 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+					}
+				}
+				sdPrimitiveBrush "sdPrimitiveBrush" 
+				groups {
+					"d1"
+				}
+				{
+					sdDictionary {
+						"_color"	"0.86275 0.86275 0.86275 1"
+						"_overbright"	"1.00000"
+					}
+					
+					sdTransform {
+						translation ( 959.9999389648 -63.9999389648 352 )
+						rotation ( ( 0.9999995232 0.0000004768 0 ) ( -0.0000004768 0.9999995232 0 ) ( 0 0 1 ) )
+					}
+					
+					faces {
+						plane ( 0 -0 -1 -64 ) matrix ( ( 0.0312500261 0 18.0000038147 ) ( 0 -0.0312500037 5.9999961853 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( 1 0 0 895.9994506836 ) matrix ( ( -0.0078125075 0 46 ) ( 0 0.015625 17.0000286102 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( -1 -0 -0 -959.9995727539 ) matrix ( ( -0.0078125075 0 55.0000076294 ) ( 0 0.015625 17 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( -0 -1 -0 64.0003738403 ) matrix ( ( -0.0312500298 0 -5.9999847412 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( 0.0000012722 0.9701425433 0.2425352931 -62.0882797241 ) matrix ( ( -0.0312500335 0 5.9999837875 ) ( 0 0.0312499925 2.4253692627 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+					}
+				}
+				sdPrimitiveBrush "sdPrimitiveBrush" 
+				groups {
+					"d1"
+				}
+				{
+					sdDictionary {
+						"_color"	"0.86275 0.86275 0.86275 1"
+						"_overbright"	"1.00000"
+					}
+					
+					sdTransform {
+						translation ( 959.9999389648 -79.9999389648 384 )
+						rotation ( ( 0.9999995232 0.0000004768 0 ) ( -0.0000004768 0.9999995232 0 ) ( 0 0 1 ) )
+					}
+					
+					faces {
+						plane ( -0 -0 1 -128 ) matrix ( ( 0.0312500186 0 18.500005722 ) ( 0 -0.0312500112 -5.9999914169 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( -0 -0 -1 -32 ) matrix ( ( 0.0312500112 0 18.5000076294 ) ( 0 -0.0312500037 5.9999961853 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( 0.0000015895 0.9999999404 -0 -87.998840332 ) matrix ( ( -0.0078125075 0 52.0000038147 ) ( 0 0.015625 16.5 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( -0.7071064115 0.7071071267 -0.0000000337 -735.3906860352 ) matrix ( ( -0.0078125019 0 54.7425994873 ) ( 0 0.015625 16.5000038147 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( 0.7071040869 0.7071095109 -0 576.9959716797 ) matrix ( ( -0.0078125009 0 48.3785743713 ) ( 0 0.015625 16.5000038147 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( -0 -1 -0 80.0003662109 ) matrix ( ( -0.0312500298 0 -5.9999847412 ) ( 0 0.03125 -3 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+					}
+				}
+				sdPrimitiveBrush "sdPrimitiveBrush" 
+				groups {
+					"d1"
+				}
+				{
+					sdDictionary {
+						"_color"	"0.86275 0.86275 0.86275 1"
+						"_overbright"	"1.00000"
+					}
+					
+					sdTransform {
+						translation ( 959.9999389648 -63.9999389648 256 )
+						rotation ( ( 0.9999995232 0.0000004768 0 ) ( -0.0000004768 0.9999995232 0 ) ( 0 0 1 ) )
+					}
+					
+					faces {
+						plane ( -0 -0 1 -32 ) matrix ( ( 0.0312500112 0 18.0000076294 ) ( 0 -0.0312500112 -5.9999914169 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( 0 -0 -1 -256 ) matrix ( ( 0.0312500261 0 18.0000038147 ) ( 0 -0.0312500037 5.9999961853 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( 1 0 0 895.9995727539 ) matrix ( ( -0.0078125075 0 46 ) ( 0 0.015625 16.5 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( -1 -0 -0 -959.9995727539 ) matrix ( ( -0.0078125075 0 55.0000076294 ) ( 0 0.015625 16.5 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( -0 -1 -0 64.0003738403 ) matrix ( ( -0.0312500298 0 -5.9999847412 ) ( 0 0.03125 -3 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
+						plane ( -0 1 -0 -88.0002822876 ) matrix ( ( -0.0078125075 0 51.9999885559 ) ( 0 0.015625 16.5 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( -0.7071064711 0.7071071267 -0.0000000187 -735.3907470703 ) matrix ( ( -0.0078125009 0 54.7425956726 ) ( 0 0.015625 16.5000038147 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( 0.7071067095 0.7071067095 -0 576.9985961914 ) matrix ( ( -0.0078125019 0 48.3785858154 ) ( 0 0.015625 16.5000038147 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+					}
+				}
+			}
+		}
+	}
+}
