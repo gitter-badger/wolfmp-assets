@@ -1,0 +1,1 @@
+material megatextures/battery	{ useTemplate megatextures/default_ambient< "battery" > }

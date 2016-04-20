@@ -1,0 +1,67 @@
+//========
+// PROPS
+//========
+
+material textures/wolfmp_placeholders/props/boxes
+{
+	surfaceType	"wood"
+	{
+	diffusemap	picmip -1	textures/wolfmp/placeholders/props/boxes_d.tga
+	specularmap     picmip -2	textures/wolfmp/placeholders/props/boxes_s.tga
+	bumpmap 	picmip -1	textures/wolfmp/placeholders/props/boxes_local.tga
+	
+	bumpDetailMap          textures/detail/bump/concrete_detail01_local.tga
+	detailMult 2,2,0,0
+	vertexcolor
+	}
+}
+
+//========
+// TRIMS
+//========
+
+
+material textures/wolfmp_placeholders/trims/truss_1
+{
+	noShadows
+	twosided
+	{
+		diffusemap picmip -1 textures/wolfmp/placeholders/trims/truss_1_d.tga
+		specularmap     picmip -2	textures/wolfmp/placeholders/trims/truss_1_s.tga
+		bumpmap 	picmip -1	textures/wolfmp/placeholders/trims/truss_1_local.tga
+		
+		alphaTest	0.5
+
+		vertexcolor
+	}
+}
+
+material textures/wolfmp_placeholders/trims/truss_2
+{
+	noShadows
+	twosided
+	{
+		diffusemap picmip -1 textures/wolfmp/placeholders/trims/truss_2_d.tga
+		specularmap     picmip -2	textures/wolfmp/placeholders/trims/truss_2_s.tga
+				
+		alphaTest	0.5
+
+		vertexcolor
+	}
+}
+
+material textures/wolfmp_placeholders/trims/truss_3
+{
+	noShadows
+	twosided
+	{
+		diffusemap picmip -1 textures/wolfmp/placeholders/trims/truss_3_d.tga
+		specularmap     picmip -2	textures/wolfmp/placeholders/trims/truss_3_s.tga
+		bumpmap 	picmip -1	textures/wolfmp/placeholders/trims/truss_3_local.tga
+		
+		alphaTest	0.5
+
+		vertexcolor
+	}
+}
+

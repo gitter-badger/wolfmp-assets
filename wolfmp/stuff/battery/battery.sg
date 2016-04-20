@@ -1,0 +1,48 @@
+// --------------------------------------------
+// BATTERY STUFF
+// --------------------------------------------
+
+version 1
+ {
+ 	model "models/terrain/battery/battery_02.ase"
+ }
+ 
+sdStuffLayer 
+{
+ 	Density 10
+ 	Distancescale 1
+ 	Distribution Area
+ 	StuffType "battery/battery_rock_small"
+ 	Mask "stuff/battery/small_rock.tga"
+ 	
+}
+
+sdStuffLayer 
+{
+ 	Density 1
+ 	Distancescale 2
+ 	Distribution Area
+ 	StuffType "battery/battery_rock"
+ 	Mask "stuff/battery/small_rock.tga"
+ 	
+}
+
+sdStuffLayer 
+{
+ 	Density 4
+ 	Distancescale 1
+ 	Distribution Area
+ 	StuffType "battery/battery_grass"
+ 	Mask "stuff/battery/tophill2.tga"
+ 	
+}
+
+sdStuffLayer 
+{
+ 	Density 15
+ 	Distancescale 1
+ 	Distribution Area
+ 	StuffType "battery/battery_pebbles"
+ 	Mask "stuff/battery/pebbles.tga"
+ 	
+}

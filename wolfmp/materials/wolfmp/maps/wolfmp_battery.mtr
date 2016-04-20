@@ -1,0 +1,98 @@
+material textures/wolfmp_battery/bunker/cement_slabs01a_vert_colour
+{
+	surfaceType	"concrete"
+	{
+	diffusemap	picmip -1	textures2/concrete/cement_slabs01a_256_d.tga
+	specularmap     picmip -2	textures2/concrete/cement_slabs01a_256_s.tga
+	bumpmap 	picmip -1	textures2/concrete/cement_slabs01a_256_local.tga
+	vertexcolor
+	}
+}
+material textures/wolfmp_battery/bunker/cement_slabs_yellow
+{
+	surfaceType	"concrete"
+	{
+	diffusemap	picmip -1	textures/wolfmp/battery/bunker/cement_slabs_yellow_d.tga
+	specularmap     picmip -2	textures2/concrete/cement_slabs01a_256_s.tga
+	bumpmap 	picmip -1	textures2/concrete/cement_slabs01a_256_local.tga
+	vertexcolor
+	}
+}
+
+material textures/wolfmp_battery/bunker/metal_trim_18_vert_colour
+{
+	qer_editorimage textures/metal/metal_trim_18_d.tga
+	surfacetype "metal"
+	{
+		diffusemap	picmip -1	textures/metal/metal_trim_18_d.tga
+		specularmap     picmip -2	textures/metal/metal_trim_18_s.tga
+		bumpmap 	picmip -1	textures/metal/metal_trim_18_local.tga
+		vertexcolor
+	}
+}
+material textures/wolfmp_battery/bunker/metal_trim_18_noshadows
+{
+	noshadows
+	surfacetype "metal"
+	{
+	diffusemap	picmip -1	textures/metal/metal_trim_18_d.tga
+	specularmap     picmip -2	textures/metal/metal_trim_18_s.tga
+	bumpmap 	picmip -1	textures/metal/metal_trim_18_local.tga
+	vertexcolor
+	}
+}
+
+material textures/wolfmp_battery/bunker/concrete10_vert_colour
+{
+	{
+		diffusemap	picmip -1	textures/concrete/concrete10_d.tga
+		specularmap     picmip -2	textures/concrete/concrete10_s.tga
+		bumpmap 	picmip -1	textures/concrete/concrete10_local.tga
+
+		bumpDetailMap          textures/detail/bump/concrete_detail01_local.tga
+		detailMult 2,2,0,0
+		vertexcolor
+	}
+}
+
+material textures/wolfmp_battery/bunker/cement_slabs_dark
+{
+	surfaceType	"concrete"
+	{
+	diffusemap	picmip -1	textures/wolfmp/battery/bunker/cement_slabs_dark_d.tga
+	specularmap     picmip -2	textures2/concrete/cement_slabs01a_256_s.tga
+	bumpmap 	picmip -1	textures2/concrete/cement_slabs01a_256_local.tga
+	
+	bumpDetailMap          textures/detail/bump/concrete_detail01_local.tga
+	detailMult 2,2,0,0
+	vertexcolor
+	}
+}
+
+material textures/wolfmp_battery/bunker/bunker_block_1
+{
+	surfaceType	"concrete"
+	{
+	diffusemap	picmip -1	textures/wolfmp/battery/bunker/bunker_block_1_d.tga
+	specularmap     picmip -2	textures/wolfmp/battery/bunker/bunker_block_1_s.tga
+	bumpmap 	picmip -1	textures/wolfmp/battery/bunker/bunker_block_1_local.tga
+	
+	bumpDetailMap          textures/detail/bump/concrete_detail01_local.tga
+	detailMult 2,2,0,0
+	vertexcolor
+	}
+}
+
+material textures/wolfmp_battery/bunker/bunker_block_2
+{
+	surfaceType	"concrete"
+	{
+	diffusemap	picmip -1	textures/wolfmp/battery/bunker/bunker_block_2_d.tga
+	specularmap     picmip -2	textures/wolfmp/battery/bunker/bunker_block_1_s.tga
+	bumpmap 	picmip -1	textures/wolfmp/battery/bunker/bunker_block_1_local.tga
+	
+	bumpDetailMap          textures/detail/bump/concrete_detail01_local.tga
+	detailMult 2,2,0,0
+	vertexcolor
+	}
+}

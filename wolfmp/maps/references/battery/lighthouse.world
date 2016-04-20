@@ -585,7 +585,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0.0009765625 0 0 ) ( 0 0.0009765625 -0.0078125 ) )
 					texBounds ( ( 0 0 ) ( 2048 2048 ) )
-					material "textures/wolfmp/walls/lighthouse2_mix"
+					material "textures/wolfmp_walls/lighthouse2_mix"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 9 3 ) {
 						(
@@ -2304,7 +2304,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2327,7 +2327,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2350,7 +2350,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2373,7 +2373,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2396,7 +2396,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2419,7 +2419,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2442,7 +2442,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2465,7 +2465,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2764,7 +2764,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.52734375 ) )
 					texBounds ( ( 0 968 ) ( 2048 1936 ) )
-					material "textures/wolfmp/walls/lighthouse2_mix"
+					material "textures/wolfmp_walls/lighthouse2_mix"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2787,7 +2787,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.52734375 ) )
 					texBounds ( ( 0 968 ) ( 2048 1936 ) )
-					material "textures/wolfmp/walls/lighthouse2_mix"
+					material "textures/wolfmp_walls/lighthouse2_mix"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2810,7 +2810,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.52734375 ) )
 					texBounds ( ( 0 968 ) ( 2048 1936 ) )
-					material "textures/wolfmp/walls/lighthouse2_mix"
+					material "textures/wolfmp_walls/lighthouse2_mix"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2833,7 +2833,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.52734375 ) )
 					texBounds ( ( 0 968 ) ( 2048 1936 ) )
-					material "textures/wolfmp/walls/lighthouse2_mix"
+					material "textures/wolfmp_walls/lighthouse2_mix"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2856,7 +2856,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2879,7 +2879,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2902,7 +2902,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2925,7 +2925,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2948,7 +2948,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2971,7 +2971,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -2994,7 +2994,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3017,7 +3017,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3040,7 +3040,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3063,7 +3063,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3086,7 +3086,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3109,7 +3109,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3131,7 +3131,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) )
 					texBounds ( ( 0 0 ) ( 512 512 ) )
-					material "textures/battery/bunker/concrete10"
+					material "textures/wolfmp_battery/bunker/concrete10_vert_colour"
 					explicitSubdivisions( 6 6 )
 					controlPoints( 3 3 ) {
 						(
@@ -3154,7 +3154,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3177,7 +3177,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3200,7 +3200,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3223,7 +3223,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3246,7 +3246,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3269,7 +3269,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3292,7 +3292,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3315,7 +3315,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3338,7 +3338,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3361,7 +3361,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3384,7 +3384,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3407,7 +3407,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3430,7 +3430,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3453,7 +3453,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3476,7 +3476,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3499,7 +3499,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3522,7 +3522,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3545,7 +3545,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3568,7 +3568,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 192 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3867,7 +3867,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) )
 					texBounds ( ( 0 0 ) ( 512 512 ) )
-					material "textures/battery/bunker/concrete10"
+					material "textures/wolfmp_battery/bunker/concrete10_vert_colour"
 					explicitSubdivisions( 6 6 )
 					controlPoints( 3 3 ) {
 						(
@@ -3890,7 +3890,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3913,7 +3913,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3936,7 +3936,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -3959,7 +3959,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -4161,7 +4161,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -4184,7 +4184,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -4207,7 +4207,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -4230,7 +4230,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -4253,7 +4253,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 -1 0 ) )
 					texBounds ( ( 0 128 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 6 1 )
 					controlPoints( 3 3 ) {
 						(

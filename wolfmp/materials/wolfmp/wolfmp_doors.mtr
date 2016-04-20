@@ -1,0 +1,35 @@
+material textures/wolfmp_doors/temp_ET_style_door
+{
+	qer_editorimage	textures/wolfmp/doors/door_d.tga
+	
+	{       
+	diffusemap 	nopicmip textures/wolfmp/doors/door_d.tga
+	specularmap	picmip -1	textures/wolfmp/doors/door_s.tga
+	bumpmap		picmip -1	textures/wolfmp/doors/door_local.tga
+	alphaTest	0.5
+	vertexColor	
+	
+	diffuseDetailMap		textures/detail/bump/metal_detail01_d.tga
+	bumpDetailMap			textures/detail/bump/metal_detail01_local.tga
+	specDetailMap			textures/detail/bump/metal_detail01_d.tga
+	detailMult	2,2,0,0
+	} 
+}
+
+material textures/wolfmp_doors/temp_ET_style_door_axis
+{
+	qer_editorimage	textures/wolfmp/doors/door_axis_d.tga
+	
+	{       
+	diffusemap 	nopicmip textures/wolfmp/doors/door_axis_d.tga
+	specularmap	picmip -1	textures/wolfmp/doors/door_s.tga
+	bumpmap		picmip -1	textures/wolfmp/doors/door_local.tga
+	alphaTest	0.5
+	vertexColor	
+	
+	diffuseDetailMap		textures/detail/bump/metal_detail01_d.tga
+	bumpDetailMap			textures/detail/bump/metal_detail01_local.tga
+	specDetailMap			textures/detail/bump/metal_detail01_d.tga
+	detailMult	2,2,0,0
+	} 
+}

@@ -1,0 +1,43 @@
+material textures/wolfmp_metal_alpha/floor_grate_01
+{
+
+	surfaceType	"metal"	
+	{
+		diffusemap 		picmip -1 textures/wolfmp/metal_alpha/floor_grate_01_d.tga
+		specularmap     picmip -2	textures/wolfmp/metal_alpha/floor_grate_01_s.tga
+		bumpmap 		picmip -1	textures/wolfmp/metal_alpha/floor_grate_01_local.tga
+		
+		vertexcolor
+	}
+}
+
+material textures/wolfmp_metal_alpha/floor_grate_02
+{
+
+	noShadows
+	twosided
+	{
+		diffusemap 		picmip -1 	textures/wolfmp/metal_alpha/floor_grate_02_alpha_d.tga
+		specularmap     picmip -2	textures/wolfmp/metal_alpha/floor_grate_02_s.tga
+		bumpmap 		picmip -1	textures/wolfmp/metal_alpha/floor_grate_01_local.tga
+		
+		alphaTest	0.5
+
+		vertexcolor
+	}
+}
+
+material textures/wolfmp_metal_alpha/floor_grate_03
+{
+	noShadows
+	twosided
+	{
+		diffusemap 		picmip -1 textures/wolfmp/metal_alpha/floor_grate_03_d.tga
+		specularmap     picmip -2	textures/wolfmp/metal_alpha/floor_grate_03_s.tga
+		bumpmap 		picmip -1	textures/wolfmp/metal_alpha/floor_grate_03_local.tga
+		
+		alphaTest	0.5
+
+		vertexcolor
+	}
+}

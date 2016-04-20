@@ -1,0 +1,25 @@
+material textures/wolfmp_walls/lighthouse_mix
+{
+	{
+		diffusemap	picmip -1	textures/wolfmp/walls/lighthouse_mix_d.tga
+		specularmap     picmip -2	textures/wolfmp/walls/lighthouse_s.tga
+		bumpmap 	picmip -1	textures/wolfmp/walls/lighthouse_local.tga
+
+		bumpDetailMap          textures/detail/bump/concrete_detail01_local.tga
+		detailMult 2,2,0,0
+		vertexcolor
+	}
+}
+
+material textures/wolfmp_walls/lighthouse2_mix
+{
+	{
+		diffusemap	picmip -1	textures/wolfmp/walls/lighthouse_mix2_d.tga
+		specularmap     picmip -2	textures/wolfmp/walls/lighthouse_2_s.tga
+		bumpmap 	picmip -1	textures/wolfmp/walls/lighthouse_2_local.tga
+
+		bumpDetailMap          textures/detail/bump/concrete_detail01_local.tga
+		detailMult 2,2,0,0
+		vertexcolor
+	}
+}

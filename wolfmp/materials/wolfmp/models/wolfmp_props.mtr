@@ -1,0 +1,36 @@
+material models/wolfmp/props/bench_01
+{
+	nonsolid
+	//renderbump -size 1024 1024 -aa 1 -trace 0.01 models/wolfmp/props/bench01_local.tga models/wolfmp/props/bench01_high.obj
+	{
+		diffusemap 		models/wolfmp/props/bench01_d.tga
+		specularmap		models/wolfmp/props/bench01_s.tga
+		bumpmap			models/wolfmp/props/bench01_local.tga
+	}	
+}
+
+material models/wolfmp/props/board_01
+{
+	nonsolid
+	//renderbump -size 1024 1024 -aa 1 -trace 0.01 models/wolfmp/props/bench01_local.tga models/wolfmp/props/bench01_high.obj
+	{
+		diffusemap 		models/wolfmp/props/board01_d.tga
+	//	specularmap		models/wolfmp/props/board01_s.tga
+	//	bumpmap			models/wolfmp/props/board01_local.tga
+	}	
+}
+
+material models/wolfmp/props/barrel_01
+{
+	nonsolid
+	{
+		diffusemap 		models/wolfmp/props/barrel01_d.tga
+		specularmap		models/wolfmp/props/barrel01_s.tga
+		bumpmap			models/wolfmp/props/barrel01_local.tga
+		
+		diffuseDetailMap 		textures/detail/bump/vehicle_detail01_d.tga
+		bumpDetailMap	 		textures/detail/bump/vehicle_detail01_local.tga
+		specDetailMap	 		textures/detail/bump/vehicle_detail01_d.tga
+		detailMult	4,4,0,0
+	}	
+}

@@ -1,0 +1,72 @@
+material textures/wolfmp_decals/grates_1
+{
+
+	nonsolid
+	polygonOffset
+	noShadows
+	{
+		diffusemap picmip -1 textures/wolfmp/decals/grates_1_d.tga
+		specularmap     picmip -2	textures/wolfmp/decals/grates_1_s.tga
+		bumpmap 	picmip -1	textures/wolfmp/decals/grates_1_local.tga
+		
+		alphaTest	0.5
+
+		vertexcolor
+	}
+}
+
+//================
+// TO BE CONVERTED
+//================
+
+material textures/wolfmp_battery/bunker/damage_decal_1
+{
+	polygonOffset
+	sort decal	
+	nonsolid
+ 	translucent
+	{
+		program filterVertexColorCoverage
+		blend filter
+		map picmip -1 textures/battery/bunker/damage_decal_1_d.tga
+		maskAlpha
+		vertexcolor
+	}
+}
+
+material textures/battery/bunker/damage_decal_2
+{
+
+	nonsolid
+	polygonOffset
+	noimpact
+	noShadows
+	{
+		diffusemap picmip -1 textures/battery/bunker/damage_decal_1_d.tga
+		specularmap     picmip -2	textures/battery/bunker/damage_decal_1_s.tga
+		bumpmap 	picmip -1	textures/battery/bunker/damage_decal_1_local.tga
+		
+		alphaTest	0.5
+
+		vertexcolor
+	}
+}
+
+material textures/battery/bunker/damage_decal_3
+{
+	//isDecal
+
+	sort decal
+	nonSolid	
+	noShadows
+	qer_editorimage		textures/battery/bunker/damage_decal_1_d.tga 
+	{      
+		//program 	interaction/parallax
+		diffusemap	textures/battery/bunker/damage_decal_1_d.tga
+		bumpmap		textures/battery/bunker/damage_decal_1_local.tga
+		//heightmap	textures/decals/tw_cement_brickreveal_01_a8.tga    
+		parameters	-0.015
+		alphaTest	0.5
+	} 
+	
+}

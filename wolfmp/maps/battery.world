@@ -1833,6 +1833,28 @@ sdWorldFile version 5 {
 			
 			classname "model_static"
 		}
+		sdPrimitiveEntity "chris_model_static_24" {
+			sdDictionary {
+				"model"	"models/wolfmp/placeholders/vehicles/fletcher/fletcher.obj"
+			}
+			sdTransform {
+				translation ( -3058.4521484375 11456.94140625 -31.9998779297 )
+				rotation ( ( -0.9961946607 -0.0871558785 0 ) ( 0.0871558785 -0.9961946607 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "model_static"
+		}
+		sdPrimitiveEntity "chris_model_static_26" {
+			sdDictionary {
+				"model"	"models/wolfmp/placeholders/vehicles/fletcher/fletcher.obj"
+			}
+			sdTransform {
+				translation ( 2300.765625 12223.583984375 -31.9998779297 )
+				rotation ( ( -0.9848077297 0.1736480594 0 ) ( -0.1736480594 -0.9848077297 0 ) ( 0 0 1 ) )
+			}
+			
+			classname "model_static"
+		}
 		sdPrimitiveReference "chris_reference_3" {
 			
 			sdTransform {

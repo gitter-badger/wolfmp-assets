@@ -1,0 +1,32 @@
+material textures/wolfmp_pipes/pipe_metal_6_vert_colour
+{
+	qer_editorimage	textures/pipes/pipe_metal_6_d.tga
+	//nonsolid
+	//noshadows
+	{       
+		diffusemap 	picmip -1	textures/pipes/pipe_metal_6_d.tga
+		specularmap	picmip -1	textures/pipes/pipe_metal_6_s.tga
+    		bumpmap		picmip -1	textures/pipes/pipe_metal_6_local.tga
+		//alphaTest	0.5
+		vertexColor
+	} 
+}
+
+material textures/wolfmp_metal/metal_floor_10_battery
+{
+	qer_editorimage	textures/metal/metal_floor_10_d.tga
+	noshadows
+	twosided
+	{       
+	diffusemap 	nopicmip textures/metal/metal_floor_10_d.tga
+	specularmap	picmip -1	textures/metal/metal_floor_10_s.tga
+	bumpmap		picmip -1	textures/metal/metal_floor_10_local.tga
+	alphaTest	0.5
+	vertexColor	
+	
+	diffuseDetailMap		textures/detail/bump/metal_detail01_d.tga
+	bumpDetailMap			textures/detail/bump/metal_detail01_local.tga
+	specDetailMap			textures/detail/bump/metal_detail01_d.tga
+	detailMult	2,2,0,0
+	} 
+}

@@ -1,0 +1,10 @@
+newmtl textures/wolfmp/doors/temp_et_style_door_axis
+	Ns 0
+	d 1
+	illum 2
+	Kd 0 0 0 
+	Ks 0.22 0.22 0.22 
+	Ka 0 0 0 
+	map_Kd p:/doom/base/textures/wolfmp/doors/temp_et_style_door_axis.tga
+
+

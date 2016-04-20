@@ -24,7 +24,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) )
 					texBounds ( ( 0 1280 ) ( 368 2560 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -51,7 +51,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( -1 -0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 768 ) ( 1024 1024 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -78,7 +78,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0 ) )
 					texBounds ( ( 0 0 ) ( 512 128 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -240,7 +240,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0 ) )
 					texBounds ( ( 0 0 ) ( 512 128 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -321,7 +321,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) )
 					texBounds ( ( 0 1280 ) ( 368 2560 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -348,7 +348,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( -1 0 0 ) ( 0 -1 0.25 ) )
 					texBounds ( ( 0 768 ) ( 1024 1280 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 8 4 )
 					controlPoints( 3 3 ) {
 						(
@@ -375,7 +375,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0 -1 0 ) ( 2 0 0.25 ) )
 					texBounds ( ( 0 768 ) ( 1024 1280 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 4 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -402,7 +402,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) )
 					texBounds ( ( 0 0 ) ( 512 512 ) )
-					material "textures/battery/bunker/concrete10"
+					material "textures/wolfmp_battery/bunker/concrete10_vert_colour"
 					explicitSubdivisions( 1 8 )
 					controlPoints( 3 3 ) {
 						(
@@ -429,7 +429,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0.0078125 0 49 ) ( 0 0.015625 18.25 ) )
 					texBounds ( ( 0 256 ) ( 1024 384 ) )
-					material "textures/battery/bunker/cement_slabs01a_vert_colour"
+					material "textures/wolfmp_battery/bunker/cement_slabs01a_vert_colour"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -510,7 +510,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0 -1 0 ) ( 1 0 0.25 ) )
 					texBounds ( ( 0 768 ) ( 1024 1280 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 4 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -880,7 +880,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 0
 					texMatrix ( ( -1 -0 0 ) ( 0 -1 0.25 ) )
 					texBounds ( ( 0 96 ) ( 512 160 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 3 3 )
 					controlPoints( 3 3 ) {
 						(
@@ -907,7 +907,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 0
 					texMatrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) )
 					texBounds ( ( 0 1280 ) ( 368 2560 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 3 3 )
 					controlPoints( 3 3 ) {
 						(
@@ -934,7 +934,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 0
 					texMatrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) )
 					texBounds ( ( 0 1280 ) ( 368 2560 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 3 3 )
 					controlPoints( 3 3 ) {
 						(
@@ -961,7 +961,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) )
 					texBounds ( ( 0 1280 ) ( 368 2560 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -988,7 +988,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( -1 -0 0 ) ( 0 1 0.25 ) )
 					texBounds ( ( 0 768 ) ( 1024 1024 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -1015,7 +1015,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0 ) )
 					texBounds ( ( 0 0 ) ( 512 128 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -1177,7 +1177,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 1 0 0 ) ( 0 1 0 ) )
 					texBounds ( ( 0 0 ) ( 512 128 ) )
-					material "textures/battery/bunker/metal_trim_18"
+					material "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -1258,7 +1258,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) )
 					texBounds ( ( 0 1280 ) ( 368 2560 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -1285,7 +1285,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( -1 0 0 ) ( 0 -1 0.25 ) )
 					texBounds ( ( 0 768 ) ( 1024 1280 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 8 4 )
 					controlPoints( 3 3 ) {
 						(
@@ -1312,7 +1312,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0 -1 0 ) ( 4 0 0.25 ) )
 					texBounds ( ( 0 768 ) ( 1024 1280 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 4 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -1339,7 +1339,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) )
 					texBounds ( ( 0 0 ) ( 512 512 ) )
-					material "textures/battery/bunker/concrete10"
+					material "textures/wolfmp_battery/bunker/concrete10_vert_colour"
 					explicitSubdivisions( 1 8 )
 					controlPoints( 3 3 ) {
 						(
@@ -1366,7 +1366,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 1
 					texMatrix ( ( 0.0078125 0 49 ) ( 0 0.015625 18.25 ) )
 					texBounds ( ( 0 256 ) ( 1024 384 ) )
-					material "textures/battery/bunker/cement_slabs01a_vert_colour"
+					material "textures/wolfmp_battery/bunker/cement_slabs01a_vert_colour"
 					explicitSubdivisions( 8 1 )
 					controlPoints( 3 3 ) {
 						(
@@ -1685,7 +1685,7 @@ sdWorldFile version 5 {
 					useExplicitSubdivisions 0
 					texMatrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) )
 					texBounds ( ( 0 1280 ) ( 368 2560 ) )
-					material "textures/battery/bunker/bunker_block_2"
+					material "textures/wolfmp_battery/bunker/bunker_block_2"
 					explicitSubdivisions( 3 3 )
 					controlPoints( 3 3 ) {
 						(
@@ -1751,14 +1751,14 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( 0 0 1 -8 ) matrix ( ( 0 -0.0151515193 -2.6211931705 ) ( 0.0625000149 0 -7.9999294281 ) ) texBounds ( ( 0 128 ) ( 512 160 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0 0 1 -8 ) matrix ( ( 0 -0.0151515193 -2.6211931705 ) ( 0.0625000149 0 -7.9999294281 ) ) texBounds ( ( 0 128 ) ( 512 160 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( 0 0 -1 -8 ) matrix ( ( 0.0312500075 0 -87.2499847412 ) ( 0 0.0312500112 -174.6249542236 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -1 0 -4 ) matrix ( ( 0.0312500149 0 289.1249389648 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 0 1 0 -4 ) matrix ( ( -0.0151515193 0 3.6212086678 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/battery/bunker/metal_trim_18"
-						plane ( -0 0.9284764528 0.3713912368 -2.9710547924 ) matrix ( ( -0.0151515212 0 3.6211900711 ) ( 0 0.046442017 15.2213134766 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0 1 0 -4 ) matrix ( ( -0.0151515193 0 3.6212086678 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
+						plane ( -0 0.9284764528 0.3713912368 -2.9710547924 ) matrix ( ( -0.0151515212 0 3.6211900711 ) ( 0 0.046442017 15.2213134766 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( 1 0 0 -164 ) matrix ( ( 0.0312500149 0 -199.9999694824 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( -1 0 0 44 ) matrix ( ( -0.0151515193 0 -182.5608215332 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/battery/bunker/metal_trim_18"
-						plane ( -0.7071067691 0.7071067691 0 31.1123046875 ) matrix ( ( -0.0151515147 0 -91.0763092041 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( -1 0 0 44 ) matrix ( ( -0.0151515193 0 -182.5608215332 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
+						plane ( -0.7071067691 0.7071067691 0 31.1123046875 ) matrix ( ( -0.0151515147 0 -91.0763092041 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					}
 				}
 				sdPrimitiveBrush "sdPrimitiveBrush" {
@@ -1776,10 +1776,10 @@ sdWorldFile version 5 {
 						plane ( -1 0 0 -16 ) matrix ( ( 0.0312500149 0 307.7499084473 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -1 -0 -224 ) matrix ( ( 0.0312500149 0 258.75 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 1 0 -32 ) matrix ( ( 0.0312500149 0 -43.2499847412 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 1 0 0 -16 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( 1 0 0 -16 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( 0 0 -1 -320 ) matrix ( ( 0.0312500037 0 -199.9999389648 ) ( 0 0.0312500037 -184 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0.9701425433 0 0.2425356358 -11.6416015625 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/nodraw"
-						plane ( 0.5547001958 0 0.8320503235 -8.875 ) matrix ( ( -0.0078125019 0 2.5000007153 ) ( 0 -0.0086676134 -0.134658277 ) ) texBounds ( ( 0 768 ) ( 1024 1024 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( 0.5547001958 0 0.8320503235 -8.875 ) matrix ( ( -0.0078125019 0 2.5000007153 ) ( 0 -0.0086676134 -0.134658277 ) ) texBounds ( ( 0 768 ) ( 1024 1024 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 					}
 				}
 				sdPrimitiveBrush "sdPrimitiveBrush" {
@@ -1794,7 +1794,7 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( 0 0 1 -16 ) matrix ( ( 0.0234375075 0 -5.499976635 ) ( 0 0.1250000447 -27.0000534058 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0 0 1 -16 ) matrix ( ( 0.0234375075 0 -5.499976635 ) ( 0 0.1250000447 -27.0000534058 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( -1 -0 -0 -16 ) matrix ( ( 0.0117187537 0 3.4999959469 ) ( 0 0.03125 16 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/metal/metal_trim_27"
 						plane ( 0 -1 0 -224 ) matrix ( ( 0.0312500149 0 258.75 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 1 0 -32 ) matrix ( ( 0.0312500149 0 -43.2499847412 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -1912,7 +1912,7 @@ sdWorldFile version 5 {
 					faces {
 						plane ( 0 0 1 -112 ) matrix ( ( 0.0312500075 0 -87.2499847412 ) ( 0 0.0312500149 185.7499694824 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 0 -1 64 ) matrix ( ( 0.0039062505 0 -24.9999923706 ) ( 0 0.0039062505 -23.0000019073 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/concrete_floor02a"
-						plane ( -1 0 -0 -16 ) matrix ( ( 0.0078125037 0 98.9999923706 ) ( 0 0.015625 9.25 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( -1 0 -0 -16 ) matrix ( ( 0.0078125037 0 98.9999923706 ) ( 0 0.015625 9.25 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/wolfmp_battery/bunker/cement_slabs01a_vert_colour"
 						plane ( 1 0 0 -0 ) matrix ( ( 0.0312500149 0 -87.2500076294 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -1 0 -128 ) matrix ( ( 0.0312500149 0 296.7499389648 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 1 0 -128 ) matrix ( ( 0.0312500149 0 -71.2499923706 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -1933,7 +1933,7 @@ sdWorldFile version 5 {
 						plane ( 0 0 1 -96 ) matrix ( ( 0.0312500075 0 -92.2499847412 ) ( 0 0.0312500075 171.75 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 0 -1 64 ) matrix ( ( 0.0039062505 0 -24.9999923706 ) ( 0 0.0039062505 -23.0000019073 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/concrete_floor02a"
 						plane ( -1 0 0 -8 ) matrix ( ( 0.0312500149 0 307.7499084473 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 1 0 0 -0 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( 1 0 0 -0 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( 0 -1 0 -128 ) matrix ( ( 0.0312500149 0 277.7499389648 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 1 0 -128 ) matrix ( ( 0.0312500149 0 -62.2499923706 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 					}
@@ -1952,7 +1952,7 @@ sdWorldFile version 5 {
 					faces {
 						plane ( 0 0 1 -112 ) matrix ( ( -0.0312500112 0 -57.5000610352 ) ( 0 -0.0312500186 178.2500610352 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 0 -1 80 ) matrix ( ( 0.0039062505 0 -24.9999923706 ) ( 0 0.0039062505 -23.0000019073 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/concrete_floor02a"
-						plane ( -1 0 -0 -0.0000004768 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( -1 0 -0 -0.0000004768 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( 1 0 0 -7.9999237061 ) matrix ( ( 0 0.0312500037 -270.25 ) ( -0.0312500224 0 178.2500915527 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -1 -0 -383.9999389648 ) matrix ( ( 0 0.0312500037 -270.25 ) ( -0.0312500224 0 -206.5000610352 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 1 0 -128 ) matrix ( ( 0 0.0312500037 -270.25 ) ( -0.0312500224 0 183 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -1971,7 +1971,7 @@ sdWorldFile version 5 {
 					
 					faces {
 						plane ( 0 0 1 -80 ) matrix ( ( -0.0312500112 0 -57.7500915527 ) ( 0 -0.0312500186 178.2500610352 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( -0 0 -1 64 ) matrix ( ( 0 0.0234375075 -0.999992013 ) ( -0.1250000149 0 71.9999465942 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( -0 0 -1 64 ) matrix ( ( 0 0.0234375075 -0.999992013 ) ( -0.1250000149 0 71.9999465942 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( -1 0 -0 -0.0000004768 ) matrix ( ( 0.0117187537 0 8.7500095367 ) ( 0 0.0625 36 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/metal/metal_trim_27"
 						plane ( 1 0 0 -7.9999237061 ) matrix ( ( 0 0.0312500037 -270.25 ) ( -0.0312500224 0 178.2500915527 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -1 -0 -383.9999389648 ) matrix ( ( 0 0.0312500037 -270.25 ) ( -0.0312500224 0 -206.2500610352 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -1991,7 +1991,7 @@ sdWorldFile version 5 {
 					
 					faces {
 						plane ( 0 0 1 -80 ) matrix ( ( 0 0.0312500112 -83.2500305176 ) ( -0.0312500037 0 188.2499389648 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( -0 0 -1 64 ) matrix ( ( 0.0234375075 0 -5.499976635 ) ( 0 0.1250000298 32.0002059937 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( -0 0 -1 64 ) matrix ( ( 0.0234375075 0 -5.499976635 ) ( 0 0.1250000298 32.0002059937 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( -1 0 0 -8 ) matrix ( ( 0 0.0312500037 -270.25 ) ( -0.0312500186 0 -211.7500152588 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1 0 0 -0 ) matrix ( ( 0.0117187537 0 -2.4999959469 ) ( 0 0.0625 36 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/metal/metal_trim_27"
 						plane ( 0 -1 0 -128 ) matrix ( ( 0 0.0312500037 -270.25 ) ( -0.0312500186 0 -180.7500610352 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -2609,7 +2609,7 @@ sdWorldFile version 5 {
 						plane ( -0 0 -1 -8 ) matrix ( ( 0.0312500261 0 301.7499084473 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -1 0 0 -64 ) matrix ( ( 0.0312500261 0 301.7499084473 ) ( 0 0.03125 -18.5 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1 0 0 -64 ) matrix ( ( 0.0312500261 0 301.7499084473 ) ( 0 0.03125 -18.5 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 0 -1 -0 -32 ) matrix ( ( -0.0078125 0 -1 ) ( 0 0.03125 11.75 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0 -1 -0 -32 ) matrix ( ( -0.0078125 0 -1 ) ( 0 0.03125 11.75 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( 0 1 0 -16 ) matrix ( ( 0.0312500261 0 301.7499084473 ) ( 0 0.03125 -18.5 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 					}
 				}
@@ -2648,7 +2648,7 @@ sdWorldFile version 5 {
 						plane ( -0 0 -1 -8 ) matrix ( ( 0.0312500261 0 303.7499084473 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -1 0 0 -64 ) matrix ( ( 0.0312500261 0 299.7499084473 ) ( 0 0.03125 -19 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1 0 0 -64 ) matrix ( ( 0.0312500261 0 303.7499084473 ) ( 0 0.03125 -19 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 0 -1 -0 -16 ) matrix ( ( -0.0078125 0 -1 ) ( 0 0.03125 11.25 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0 -1 -0 -16 ) matrix ( ( -0.0078125 0 -1 ) ( 0 0.03125 11.25 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( 0 1 0 -32 ) matrix ( ( 0.0312500261 0 301.7499084473 ) ( 0 0.03125 -19 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 					}
 				}
@@ -2667,7 +2667,7 @@ sdWorldFile version 5 {
 						plane ( -0 0 -1 -8 ) matrix ( ( 0.0312500261 0 305.2499084473 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -1 0 0 -64 ) matrix ( ( 0.0312500261 0 298.2499084473 ) ( 0 0.03125 -19.5 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1 0 0 -64 ) matrix ( ( 0.0312500261 0 305.2499084473 ) ( 0 0.03125 -19.5 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 0 -1 -0 -16 ) matrix ( ( -0.0078125 0 -1 ) ( 0 0.03125 10.75 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0 -1 -0 -16 ) matrix ( ( -0.0078125 0 -1 ) ( 0 0.03125 10.75 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( 0 1 0 -32 ) matrix ( ( 0.0312500261 0 301.7499084473 ) ( 0 0.03125 -19.5 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 					}
 				}
@@ -2688,7 +2688,7 @@ sdWorldFile version 5 {
 						plane ( -1 0 0 -12 ) matrix ( ( 0.0312500186 0 297.7501220703 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1 0 0 -147.9999847412 ) matrix ( ( 0.0039062519 0 23.0000038147 ) ( 0 0.00390625 -2.25 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/concrete_floor02a"
 						plane ( 0 1 -0 -68 ) matrix ( ( 0.0312500186 0 -80.5000152588 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 0.7070986629 -0.0000001537 0.7071149349 -115.9642486572 ) matrix ( ( -0.0110294195 0 -0.2941458225 ) ( 0 0.0884035528 53.5091094971 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0.7070986629 -0.0000001537 0.7071149349 -115.9642486572 ) matrix ( ( -0.0110294195 0 -0.2941458225 ) ( 0 0.0884035528 53.5091094971 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( 0 -1 0 -188.0000915527 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 128 ) ) "textures/common/caulk"
 					}
 				}
@@ -2706,10 +2706,10 @@ sdWorldFile version 5 {
 					faces {
 						plane ( -1 0 0 -16 ) matrix ( ( 0.0312500261 0 301.7499084473 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -1 -0 -224 ) matrix ( ( 0.0312500261 0 248.7501220703 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 1 0 0 -16 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( 1 0 0 -16 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( -0 0 -1 -320 ) matrix ( ( 0.0312500037 0 -199.9999389648 ) ( 0 0.0312500037 -184 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0.9701425433 0.0000001735 0.2425356656 -11.6417064667 ) matrix ( ( 0.0312500186 0 183.9999694824 ) ( 0 0.0312499888 31.0445461273 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 0.554700315 -0.0000000992 0.8320503235 -8.8767089844 ) matrix ( ( -0.0078125028 0 1.0000004768 ) ( 0 -0.0086683836 2.1733176708 ) ) texBounds ( ( 0 768 ) ( 1024 1024 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( 0.554700315 -0.0000000992 0.8320503235 -8.8767089844 ) matrix ( ( -0.0078125028 0 1.0000004768 ) ( 0 -0.0086683836 2.1733176708 ) ) texBounds ( ( 0 768 ) ( 1024 1024 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( -0 1 0 -287.9997558594 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/common/caulk"
 					}
 				}
@@ -2745,7 +2745,7 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( 0 0 1 -16 ) matrix ( ( 0 -0.0234375075 -0.999992013 ) ( 0.1249924004 0 -66.9957885742 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0 0 1 -16 ) matrix ( ( 0 -0.0234375075 -0.999992013 ) ( 0.1249924004 0 -66.9957885742 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( -1 -0 -0 -16 ) matrix ( ( -0.0117187537 0 -0.2499961257 ) ( 0 0.03125 16 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/metal/metal_trim_27"
 						plane ( 0 -1 0 -224 ) matrix ( ( 0.0312500261 0 248.7501220703 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0.9701427221 -0.0000001735 -0.2425356209 11.638671875 ) matrix ( ( 0.0312500186 0 -184.0000305176 ) ( 0 0.0312499907 31.0445537567 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -2767,7 +2767,7 @@ sdWorldFile version 5 {
 						plane ( 0 0 1 -112 ) matrix ( ( -0.0312500112 0 -58.5000610352 ) ( 0 -0.0312500186 178.2500610352 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 0 -1 64 ) matrix ( ( 0.0039062505 0 -24.9999923706 ) ( 0 0.0039062505 -23.0000019073 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/concrete_floor02a"
 						plane ( -1 0 -0 -0.0000958368 ) matrix ( ( 0 0.0312500037 -270.25 ) ( -0.0312500224 0 -201.7500915527 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 1 0 0 -16 ) matrix ( ( 0.0078125037 0 94.9999847412 ) ( 0 0.015625 9.25 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( 1 0 0 -16 ) matrix ( ( 0.0078125037 0 94.9999847412 ) ( 0 0.015625 9.25 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/wolfmp_battery/bunker/cement_slabs01a_vert_colour"
 						plane ( 0 1 0 -128 ) matrix ( ( 0 0.0312500037 -270.25 ) ( -0.0312500224 0 182 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -1 -0 -383.9999084473 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 128 ) ) "textures/common/caulk"
 					}
@@ -2807,8 +2807,8 @@ sdWorldFile version 5 {
 						plane ( -1 0 0 -152 ) matrix ( ( 0.0312500075 0 -18.5000038147 ) ( 0 0.03125 5 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1 0 0 24 ) matrix ( ( 0.0312500075 0 18.5000038147 ) ( 0 0.03125 5 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 0 1 -336 ) matrix ( ( -0.0312500075 0 18.5 ) ( 0 -0.0312500075 -8.75 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( -0.0000000843 -0.7071068287 -0.7071067691 599.6265869141 ) matrix ( ( 0.0074869725 0 0.5989592075 ) ( 0 0.0078125037 0.2902929187 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
-						plane ( -0.0000001192 -1.0000001192 0 536.0000610352 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( -0.0000000843 -0.7071068287 -0.7071067691 599.6265869141 ) matrix ( ( 0.0074869725 0 0.5989592075 ) ( 0 0.0078125037 0.2902929187 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
+						plane ( -0.0000001192 -1.0000001192 0 536.0000610352 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( 0.0000001192 1.0000001192 0 -544.0000610352 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
 					}
 				}
@@ -2828,7 +2828,7 @@ sdWorldFile version 5 {
 						plane ( -0 0 -1 136 ) matrix ( ( 0.0039062505 0 -24.9999923706 ) ( 0 0.0039062505 -23.0000019073 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/concrete_floor02a"
 						plane ( -1 0 0 -64 ) matrix ( ( 0.0312500149 0 213.9999542236 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1 0 0 -64 ) matrix ( ( 0.0312500149 0 -185.9999847412 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 0 1 0 -64 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( 0 1 0 -64 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( -0.0000002384 -1.0000002384 0 -32.0000305176 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 					}
 				}
@@ -2845,9 +2845,9 @@ sdWorldFile version 5 {
 					
 					faces {
 						plane ( 0 0 1 -112 ) matrix ( ( 0.0312500037 0 -185.9999542236 ) ( 0 0.0312500149 183.9999694824 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( -1 0 -0 -352 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
-						plane ( 1 0 0 -32 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
-						plane ( 0 1 0 -64 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( -1 0 -0 -352 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
+						plane ( 1 0 0 -32 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
+						plane ( 0 1 0 -64 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( -0 0 -1 -8 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
 						plane ( -0 -1 0 -447.9998779297 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 					}
@@ -2864,9 +2864,9 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( -1 0 -0 -352 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
-						plane ( 1 0 0 -32 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
-						plane ( 0 1 0 -64 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( -1 0 -0 -352 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
+						plane ( 1 0 0 -32 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
+						plane ( 0 1 0 -64 ) matrix ( ( 0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( -0 0 -1 -336 ) matrix ( ( 0.0312500037 0 -199.9999389648 ) ( 0 0.0312500037 -184 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 0 1 8 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
 						plane ( -0.0000003179 -0.9999999404 0 -447.9997253418 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/common/caulk"
@@ -2884,14 +2884,14 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( -0 0 1 -8 ) matrix ( ( 0 0.0151515193 3.1969902515 ) ( 0.0625000149 0 -7.9999294281 ) ) texBounds ( ( 0 128 ) ( 512 160 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( -0 0 1 -8 ) matrix ( ( 0 0.0151515193 3.1969902515 ) ( 0.0625000149 0 -7.9999294281 ) ) texBounds ( ( 0 128 ) ( 512 160 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( -0 0 -1 -8 ) matrix ( ( 0.0312500075 0 -87.2499847412 ) ( 0 -0.0312500112 -162.6249542236 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0.0000003656 -0.9999999404 -0 -3.999941349 ) matrix ( ( -0.0312500149 0 277.1249389648 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( -0 1 -0 -3.999920845 ) matrix ( ( 0.0151515193 0 -2.1969749928 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/battery/bunker/metal_trim_18"
-						plane ( 0.0000004656 0.9284767509 0.3713904321 -2.9726560116 ) matrix ( ( 0.0151515221 0 -2.1969945431 ) ( 0 0.0464420207 15.2213134766 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( -0 1 -0 -3.999920845 ) matrix ( ( 0.0151515193 0 -2.1969749928 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
+						plane ( 0.0000004656 0.9284767509 0.3713904321 -2.9726560116 ) matrix ( ( 0.0151515221 0 -2.1969945431 ) ( 0 0.0464420207 15.2213134766 ) ) texBounds ( ( 0 96 ) ( 512 160 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( -1 -0 -0 212 ) matrix ( ( -0.0312500149 0 -199.9999694824 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 1 -0 0 -331.9999084473 ) matrix ( ( 0.0151515193 0 -182.5608215332 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/battery/bunker/metal_trim_18"
-						plane ( 0.7071067691 0.7071067691 -0.0000019618 -234.7593383789 ) matrix ( ( 0.0151515128 0 -95.1903762817 ) ( 0 0.041667942 17.0004711151 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 1 -0 0 -331.9999084473 ) matrix ( ( 0.0151515193 0 -182.5608215332 ) ( 0 0.0416679382 17.0004882813 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
+						plane ( 0.7071067691 0.7071067691 -0.0000019618 -234.7593383789 ) matrix ( ( 0.0151515128 0 -95.1903762817 ) ( 0 0.041667942 17.0004711151 ) ) texBounds ( ( 0 32 ) ( 512 64 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 					}
 				}
 				sdPrimitiveBrush "sdPrimitiveBrush" {
@@ -2909,10 +2909,10 @@ sdWorldFile version 5 {
 						plane ( 1 -0 -0 431.9998779297 ) matrix ( ( -0.0312500149 0 307.7499084473 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 -1 -0 -223.9998016357 ) matrix ( ( -0.0312500149 0 246.75 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 1 -0 -32.0001029968 ) matrix ( ( -0.0312500149 0 -31.2499847412 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( -1 -0 -0 -464 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( -1 -0 -0 -464 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( -0 0 -1 -320 ) matrix ( ( 0.0312500037 0 -199.9999389648 ) ( 0 -0.0312500037 -172 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0.9701421261 -0.0000004626 0.2425371259 422.9819030762 ) matrix ( ( -0.03125 0 0 ) ( 0 0.0312499963 2.9104483128 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/nodraw"
-						plane ( -0.5546999574 0.0000002645 0.8320505023 -257.3850708008 ) matrix ( ( 0.0078125019 0 2.5000007153 ) ( 0 -0.0086676124 2.6347081661 ) ) texBounds ( ( 0 768 ) ( 1024 1024 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( -0.5546999574 0.0000002645 0.8320505023 -257.3850708008 ) matrix ( ( 0.0078125019 0 2.5000007153 ) ( 0 -0.0086676124 2.6347081661 ) ) texBounds ( ( 0 768 ) ( 1024 1024 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 					}
 				}
 				sdPrimitiveBrush "sdPrimitiveBrush" {
@@ -2927,7 +2927,7 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( -0 0 1 -16 ) matrix ( ( 0.0234375075 0 -5.499976635 ) ( 0 -0.1250000447 -75.0000610352 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( -0 0 1 -16 ) matrix ( ( 0.0234375075 0 -5.499976635 ) ( 0 -0.1250000447 -75.0000610352 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( 1 -0 -0 431.9998779297 ) matrix ( ( -0.0117187537 0 3.4999959469 ) ( 0 0.03125 16 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/metal/metal_trim_27"
 						plane ( 0 -1 -0 -223.9998016357 ) matrix ( ( -0.0312500149 0 246.75 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 0.9999999404 0.0000003576 -32.0000991821 ) matrix ( ( -0.0312500149 0 -31.2499847412 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -3045,7 +3045,7 @@ sdWorldFile version 5 {
 					faces {
 						plane ( -0 -0 1 -112 ) matrix ( ( 0.0312500075 0 -87.2499847412 ) ( 0 -0.0312500149 173.7499694824 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -0 -1 64 ) matrix ( ( 0.0039062505 0 -24.9999923706 ) ( 0 -0.0039062505 -21.5000019073 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/concrete_floor02a"
-						plane ( 1 -0 -0 399.9999694824 ) matrix ( ( -0.0078125037 0 98.9999923706 ) ( 0 0.015625 9.25 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/battery/bunker/cement_slabs01a_vert_colour"
+						plane ( 1 -0 -0 399.9999694824 ) matrix ( ( -0.0078125037 0 98.9999923706 ) ( 0 0.015625 9.25 ) ) texBounds ( ( 0 256 ) ( 1024 384 ) ) "textures/wolfmp_battery/bunker/cement_slabs01a_vert_colour"
 						plane ( -1 -0 -0 -415.9998474121 ) matrix ( ( -0.0312500149 0 -87.2500076294 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 -1 -0 -127.9998397827 ) matrix ( ( -0.0312500149 0 284.7499389648 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 1 0 -128.0000305176 ) matrix ( ( -0.0312500149 0 -59.2499923706 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -3066,7 +3066,7 @@ sdWorldFile version 5 {
 						plane ( -0 -0 1 -96 ) matrix ( ( 0.0312500075 0 -92.2499847412 ) ( 0 -0.0312500075 159.75 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -0 -1 64 ) matrix ( ( 0.0039062505 0 -24.9999923706 ) ( 0 -0.0039062505 -21.5000019073 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/concrete_floor02a"
 						plane ( 1 -0 -0 471.9999389648 ) matrix ( ( -0.0312500149 0 307.7499084473 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( -1 -0 -0 -479.9998168945 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( -1 -0 -0 -479.9998168945 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( -0 -1 -0 -127.9998245239 ) matrix ( ( -0.0312500149 0 265.7499389648 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 1 0 -128.0000457764 ) matrix ( ( -0.0312500149 0 -50.2499923706 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 					}
@@ -3084,7 +3084,7 @@ sdWorldFile version 5 {
 					
 					faces {
 						plane ( -0 -0 1 -80 ) matrix ( ( 0 -0.0312500112 -95.2500305176 ) ( -0.0312500037 0 188.2499389648 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 0 -0 -1 64 ) matrix ( ( 0.0234375075 0 -5.499976635 ) ( 0 -0.1250000298 80.0002059937 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0 -0 -1 64 ) matrix ( ( 0.0234375075 0 -5.499976635 ) ( 0 -0.1250000298 80.0002059937 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( 1 -0 -0 455.9999389648 ) matrix ( ( 0 0.0312500037 -270.25 ) ( 0.0312500186 0 -211.7500152588 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -1 -0 -0 -463.9998168945 ) matrix ( ( -0.0117187537 0 -2.4999959469 ) ( 0 0.0625 36 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/metal/metal_trim_27"
 						plane ( -0 -1 -0 -127.9998321533 ) matrix ( ( 0 0.0312500037 -270.25 ) ( 0.0312500186 0 -168.7500610352 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -3684,7 +3684,7 @@ sdWorldFile version 5 {
 						plane ( -0.9999999404 0.0000006159 0 -11.9999866486 ) matrix ( ( -0.0312500186 0 309.7501220703 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1 -0 -0 -147.9998931885 ) matrix ( ( -0.0039062519 0 21.5000038147 ) ( 0 0.00390625 -2.25 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/concrete/concrete_floor02a"
 						plane ( -0 -1 -0 -27.9999656677 ) matrix ( ( -0.0312500186 0 -80.5000152588 ) ( 0 0.03125 -18 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 0.7070966363 -0.0000001686 0.7071169019 -115.9652023315 ) matrix ( ( 0.0110294214 0 3.9411520958 ) ( 0 0.0884035677 53.5091133118 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/battery/bunker/metal_trim_18"
+						plane ( 0.7070966363 -0.0000001686 0.7071169019 -115.9652023315 ) matrix ( ( 0.0110294214 0 3.9411520958 ) ( 0 0.0884035677 53.5091133118 ) ) texBounds ( ( 0 0 ) ( 512 128 ) ) "textures/wolfmp_battery/bunker/metal_trim_18_vert_colour"
 						plane ( 0 1 0 -227.9999084473 ) matrix ( ( -0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 128 ) ) "textures/common/caulk"
 					}
 				}
@@ -3701,9 +3701,9 @@ sdWorldFile version 5 {
 					
 					faces {
 						plane ( -0 -0 1 -112 ) matrix ( ( 0.0312500037 0 -185.9999542236 ) ( 0 -0.0312500149 171.9999694824 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
-						plane ( 1 -0 -0 64.0000839233 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
-						plane ( -1 -0 -0 -447.9999084473 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
-						plane ( -0 1 -0 -64.0000915527 ) matrix ( ( -0.0074869702 0 -0.2994787097 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( 1 -0 -0 64.0000839233 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
+						plane ( -1 -0 -0 -447.9999084473 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
+						plane ( -0 1 -0 -64.0000915527 ) matrix ( ( -0.0074869702 0 -0.2994787097 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( 0 -0 -1 -8 ) matrix ( ( 0.03125 0 0 ) ( 0 -0.03125 12 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
 						plane ( -0 -1 0 -447.9999389648 ) matrix ( ( -0.03125 0 -12 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 					}
@@ -3720,9 +3720,9 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( 1 -0 -0 64.0000839233 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
-						plane ( -0.9999999404 0.0000006358 -0 -447.9998474121 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
-						plane ( -0 1 -0 -64.0000915527 ) matrix ( ( -0.0074869702 0 -0.2994787097 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/battery/bunker/bunker_block_2"
+						plane ( 1 -0 -0 64.0000839233 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
+						plane ( -0.9999999404 0.0000006358 -0 -447.9998474121 ) matrix ( ( -0.0074869702 0 -3.1744749546 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
+						plane ( -0 1 -0 -64.0000915527 ) matrix ( ( -0.0074869702 0 -0.2994787097 ) ( 0 0.0078125 2.625 ) ) texBounds ( ( 0 1280 ) ( 368 2560 ) ) "textures/wolfmp_battery/bunker/bunker_block_2"
 						plane ( 0 -0 -1 -336 ) matrix ( ( 0.0312500037 0 -199.9999389648 ) ( 0 -0.0312500037 -172 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0 -0 1 8 ) matrix ( ( 0.03125 0 0 ) ( 0 -0.03125 -12 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"
 						plane ( -0 -1 0 -447.9999389648 ) matrix ( ( -0.03125 0 -12 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/common/caulk"
@@ -3760,7 +3760,7 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( -0 0 1 -32 ) matrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/battery/bunker/concrete10"
+						plane ( -0 0 1 -32 ) matrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/wolfmp_battery/bunker/concrete10_vert_colour"
 						plane ( 0 0 -1 16 ) matrix ( ( 0.0312500075 0 -92.2499847412 ) ( 0 0.0312500112 -168.2499542236 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -0.9999999404 -0.0000003179 0 -711.9999389648 ) matrix ( ( 0.0312500149 0 307.7499084473 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 1 -0 -112 ) matrix ( ( 0.0312500149 0 -62.2499923706 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -3779,7 +3779,7 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( 0 0 1 -32 ) matrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/battery/bunker/concrete10"
+						plane ( 0 0 1 -32 ) matrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/wolfmp_battery/bunker/concrete10_vert_colour"
 						plane ( 0 -0 -1 16 ) matrix ( ( 0.0312500075 0 -92.2499847412 ) ( 0 0.0312500112 -168.2499542236 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 -1 0 -655.9998168945 ) matrix ( ( 0.0312500149 0 277.7499389648 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 1 -0 -112 ) matrix ( ( 0.0312500149 0 -62.2499923706 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -3799,7 +3799,7 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( 0 0 1 -32 ) matrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/battery/bunker/concrete10"
+						plane ( 0 0 1 -32 ) matrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/wolfmp_battery/bunker/concrete10_vert_colour"
 						plane ( -0 0 -1 16 ) matrix ( ( 0.0312500075 0 -92.2499847412 ) ( 0 0.0312500112 -168.2499542236 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1 0 0 -135.9998474121 ) matrix ( ( 0.0312500149 0 -92.2500076294 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 0 1 -0 -112 ) matrix ( ( 0.0312500149 0 -62.2499923706 ) ( 0 0.03125 -16.25 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
@@ -3818,7 +3818,7 @@ sdWorldFile version 5 {
 					}
 					
 					faces {
-						plane ( 0 0 1 -32 ) matrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/battery/bunker/concrete10"
+						plane ( 0 0 1 -32 ) matrix ( ( 0 -0.0027343752 3.3125019073 ) ( 0.0027343752 0 -4.9374985695 ) ) texBounds ( ( 0 0 ) ( 512 512 ) ) "textures/wolfmp_battery/bunker/concrete10_vert_colour"
 						plane ( -0 0 -1 16 ) matrix ( ( 0.0312500075 0 -92.2499847412 ) ( 0 0.0312500112 -168.2499542236 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( 1.0000002384 -0.0000002384 0 32.0000457764 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 16 16 ) ) "textures/common/caulk"
 						plane ( -1.0000002384 0.0000002384 0 -544.0000610352 ) matrix ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) texBounds ( ( 0 0 ) ( 64 64 ) ) "textures/common/caulk"

@@ -1,0 +1,31 @@
+material models/wolfmp/mapobjects/hedgehog_01
+{
+	nonsolid
+	{
+		diffusemap 		models/wolfmp/mapobjects/hedgehog/hedgehog02_d.tga
+		specularmap		models/wolfmp/mapobjects/hedgehog/hedgehog01_d.tga
+	//	bumpmap			models/wolfmp/mapobjects/hedgehog/hedgehog01_local.tga
+	}	
+}
+
+material models/wolfmp/mapobjects/sandbags/sandbag_01
+{
+	nonsolid
+//	noshadows
+	{
+		diffusemap 		models/wolfmp/mapobjects/sandbags/sandbag_wall01_d.tga
+		specularmap		models/wolfmp/mapobjects/sandbags/sandbag_wall01_s.tga
+		bumpmap			models/wolfmp/mapobjects/sandbags/sandbag_wall01_local.tga
+		
+		diffuseDetailMap 		textures/detail/sandbag01_d.tga
+		bumpDetailMap	 		textures/detail/sandbag01_local.tga
+	//	specDetailMap	 		textures/detail/sandbag01_s.tga
+		detailMult	12,12,100,50		
+	}	
+}
+
+material models/wolfmp/mapobjects/lights/lightswitch_01
+{
+	diffusemap		models/wolfmp/mapobjects/lights/lightswitch_01_d.tga
+	bumpmap			models/wolfmp/mapobjects/lights/lightswitch_01_local.tga
+}

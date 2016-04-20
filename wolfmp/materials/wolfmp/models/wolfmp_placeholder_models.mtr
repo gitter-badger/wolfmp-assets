@@ -1,0 +1,67 @@
+material models/vehicles/truck
+{
+	surfaceType "metal"
+	{
+	diffuseMap	models/wolfmp/placeholders/vehicles/truck/truck_d.tga
+	specularmap	models/wolfmp/placeholders/vehicles/truck/truck_s.tga
+	bumpmap		models/wolfmp/placeholders/vehicles/truck/truck_local.tga
+	}
+}
+
+material models/wolfmp/placeholders/vehicles/fletcher
+{
+	surfacetype "metal"
+	{
+		diffusemap	models/wolfmp/placeholders/vehicles/fletcher/fletcher_d.tga
+		specularmap	models/wolfmp/placeholders/vehicles/fletcher/fletcher_s.tga
+		bumpmap		models/wolfmp/placeholders/vehicles/fletcher/fletcher_local.tga
+					
+	}
+}
+
+material models/wolfmp/placeholders/vehicles/fletcher_fence
+  {
+ 	twoSided
+ 	//nonsolid
+ 	noshadows
+ 	translucent
+ 	{
+ 		diffusemap models/wolfmp/placeholders/vehicles/fletcher/fletcher_fence_d.tga
+ 		alphaTest 	0.25
+ 	}
+
+
+}
+
+material models/wolfmp/placeholders/vehicles/sidecar_bike/bike_body
+{
+	surfacetype "metal"
+	{
+		diffusemap	models/wolfmp/placeholders/vehicles/sidecar_bike/bike_body_d.tga
+		specularmap	models/wolfmp/placeholders/vehicles/sidecar_bike/bike_body_s.tga
+		bumpmap		models/wolfmp/placeholders/vehicles/sidecar_bike/bike_body_local.tga
+					
+	}
+}
+
+material models/wolfmp/placeholders/vehicles/sidecar_bike/bike_engine
+{
+	surfacetype "metal"
+	{
+		diffusemap	models/wolfmp/placeholders/vehicles/sidecar_bike/bike_engine_d.tga
+		specularmap	models/wolfmp/placeholders/vehicles/sidecar_bike/bike_engine_s.tga
+		bumpmap		models/wolfmp/placeholders/vehicles/sidecar_bike/bike_engine_local.tga
+					
+	}
+}
+
+material models/wolfmp/placeholders/vehicles/sidecar_bike/bike_tires
+{
+	surfacetype "metal"
+	{
+		diffusemap	models/wolfmp/placeholders/vehicles/sidecar_bike/bike_tires_d.tga
+		specularmap	models/wolfmp/placeholders/vehicles/sidecar_bike/bike_tires_s.tga
+		bumpmap		models/wolfmp/placeholders/vehicles/sidecar_bike/bike_tires_local.tga
+					
+	}
+}

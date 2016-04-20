@@ -1,0 +1,39 @@
+// --------------------------------------------
+// BATTERY STUFF
+// --------------------------------------------
+
+
+stuffType battery/battery_rock_small {
+	Model	"stuff/volcano/volcano_rock_small01.lwo"
+	Model	"stuff/volcano/volcano_rock_small02.lwo"
+	Model	"stuff/volcano/volcano_rock_small03.lwo"
+	Model	"stuff/volcano/volcano_rock_small04.lwo"
+}
+
+stuffType battery/battery_rock {
+	Model	"stuff/island/island_rock01.lwo"
+	Model	"stuff/island/island_rock02.lwo"
+	Model	"stuff/island/island_rock03.lwo"
+	Model	"stuff/island/island_rock04.lwo"
+	Model	"stuff/island/island_rock05.lwo"
+	Model	"stuff/island/island_rock06.lwo"
+	Model	"stuff/island/island_rock07.lwo"
+	Model	"stuff/island/island_rock08.lwo"
+}
+
+stuffType battery/battery_grass {
+	//Model	"stuff/canyon/canyon_grass01.lwo"
+	//Model	"stuff/canyon/canyon_grass02.lwo"
+	//Model	"stuff/canyon/canyon_grass03.lwo"
+	Model	"stuff/slipgate/slipgate_desert_plant01_a.lwo"
+	Model	"stuff/slipgate/slipgate_desert_plant01_b.lwo"
+	Model	"stuff/slipgate/slipgate_desert_plant01_c.lwo"
+}
+
+stuffType battery/battery_pebbles {
+	Model	"stuff/island/island_rock_small01.lwo"
+	Model	"stuff/island/island_rock_small02.lwo"
+	Model	"stuff/island/island_rock_small03.lwo"
+	Model	"stuff/island/island_rock_small04.lwo"
+}
+
