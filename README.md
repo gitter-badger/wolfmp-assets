@@ -1,4 +1,6 @@
 # Wolf:MP mod for Enemy Territory Quake Wars
+
+[![Join the chat at https://gitter.im/wolfmp/wolfmp-assets](https://badges.gitter.im/wolfmp/wolfmp-assets.svg)](https://gitter.im/wolfmp/wolfmp-assets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Wolf:MP is a mod for the game Enemy Territory : Quake Wars released (ETQW) which was released in 2007.
 After the disappointing Wolfenstein game in 2009, and the really good but SP only Wolfenstein : The New Order / The Old Blood, we (old Wolfenstein : Enemy Territory players) felt the need for a proper Wolfenstein multiplayer game. That's why Wolf:MP exists. 
 It plans on getting the best of both games Wolfenstein:Enemy Territory and ETQW into a single package.
